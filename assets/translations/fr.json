@@ -1,0 +1,586 @@
+{
+    "eng":"English (UK)",
+    "fr":"Fancias",
+    "home":"Accueil",
+    "features":"Fonctionnalités",
+    "price":"Prix",
+    "users":"Utilisateurs",
+    
+    "contact":"Nous contacter",
+    "fp1":"F.A.Q",
+    "fp2":"Mentions légales",
+    "fp3":"Politique de confidentialité",
+    "fp4":"Terms of Use",
+    "fp5":"CGUV",
+    "footerRight1":"Bet Trends est le 1er outil d'analyse automatisé pour les paris sportifs, sous la forme d’une application mobile gratuite.",
+    "footerRight2":"Récupère et analyse tes paris sportifs en un clic pour optimiser tes gains avec Bet Trends, l'outil qui fera de toi un expert en paris sportifs.",
+    "footerBottom1":"Tous Droits Réservés",
+    "footerBottom2":"Jouer comporte des risques : endettement, isolement, dépendance pour être aidé, appelez le 09 74 75 13 13. (Appel non surtaxé). Vous pouvez également consulter",
+    "footerLink":"le site internet",
+
+    "____HOMEPAGE____":"Home page is starting from here",
+    
+    "hW1-1":"Analyse tes paris sportifs en un clic !",    
+    "hW1-2":"Avec le meilleur outil d'analyse sur le marché des paris sportifs",
+
+
+    "hW2-1":"Un outil d'analyse puissant et unique",
+    "hW2-2h":"Automatisation",
+    "hW2-2c":"Récupère en un clic ton historique de paris sur chacun des bookmakers.",
+    "hW2-3h":"Statistiques",
+    "hW2-3c":"Visualise tes statistiques avec un large panel de graphiques puissants et précis.",
+    "hW2-4h":"Analyse",
+    "hW2-4c":"Analyse tes performances pour cibler tes points forts et tes points faibles.",
+
+    "hW3-1":"Bet Trends, c'est :",
+    "hW3-2h":"+ de 60 indicateurs",
+    "hW3-2c":"Nous prenons en compte toutes les informations permettant d'analyser tes résultats de paris. De tes sports préférés à ta façon de miser, rien n'échappe à notre outil de récupération automatique des données.",
+    "hW3-3h":"+ de 30 chiffres clés",
+    "hW3-3c":"Grâce à différents scripts et algorithmes présents dans l'application, nous utilisons tes résultats pour en extraire des statistiques élaborées. Celles-ci te permettant d'avoir une vue d'ensemble sur tous tes paris et de mesurer tes points forts pour maximiser tes gains.",
+    "hW3-4h":"+ de 15 graphiques",
+    "hW3-4c":"Pour mieux évaluer tes propres performances, de nombreux graphiques sont à ta disposition. Ils peuvent te servir à évaluer tes gains jour après jour et rectifier le tir lorsque c'est nécessaire.",
+
+    "hW4-1h":"Fonctionnalités",
+    "hW4-1c":"Puissant et indispensable : augmente tes gains avec Bet Trends !",
+    "hW4-2h":"Récupération\nautomatisée",
+    "hW4-2c1":"En un clic,",
+    "hW4-2c2":"récupère ton historique de paris sur les différents bookmakers.",
+    "hW4-3h":"+ 60 statistiques",
+    "hW4-3c1":"Analyse",
+    "hW4-3c2":"tes statistiques comme un expert avec un large panel d'indicateurs et de graphiques qui te permettrons d'améliorer ton ROI !",   
+    "hW4-4h":"Customisation",
+    "hW4-4c1":"Customise",
+    "hW4-4c2":"ton tableau de bord avec les indicateurs et les graphiques qui te correspondent le mieux.",
+    
+    "hW4-5h":"Catégorisation",
+    "hW4-5c1":"Catégorisation automatique",
+    "hW4-5c2":"de tes paris par bookmakers, sport, championnats etc.",
+    "hW4-6h":"Filtrage par date",
+    "hW4-6c1":"Filtre",
+    "hW4-6c2":"de manière simple tes paris par date pour obtenir tes statistiques sur la période de ton choix.",
+    "hW4-7h":"Recherche",
+    "hW4-7c1":"Recherche",
+    "hW4-7c2":"simplement dans ton historique centralisé tes paris effectués auprès des différents bookmakers.",
+
+    "hW5-1h":"Bet Trends est un outil gratuit",
+    "hW5-1c1":"Améliore ta rentabilité avec",
+    "hW5-1c2":"Bet Trends Premium",
+    "month-btn":"Mensuel",
+    "quater-btn":"Trimestriel",
+    "free":"Gratuit",
+    "free1":"Récupération automatique",
+    "free2":"Chiffres clés",
+    "free3":"Courbe de Bankroll, ROI et de Bénéfices",
+    "free4":"Customisation du tableau de bord",
+    "free5":"Catégorisation automatique",
+    "free6":"Recherche de paris",
+    "paid-text-1":"5.99 € / mois",
+    "paid-text-2":"14.99 € / trimestre",
+    "paid-1":"+60 Statistiques Pro",
+    "paid-2":"Filtrage des statistiques",
+    "paid-3":"Filtrage par date",
+    "paid-4":"Historique des bets (durée illimitée)",
+
+    "h-info-slider-h1":"Analyse",
+    "h-info-slider-c1":"Notre outil d'analyse est le plus poussé sur le marché ! En plus, la récupération de tes historiques de paris se fait de manière automatisée.",
+
+    "h-info-slider-h2":"Gestion",
+    "h-info-slider-c2":"Tous tes résultats sont accessibles depuis l'application qui t'accorde une vue d'ensemble sur une période de ton choix.",
+
+    "h-info-slider-h3":"Statistiques",
+    "h-info-slider-c3":"Des résultats clairs et lisibles sous forme de chiffres-clés et de graphiques pour des statistiques toujours plus élaborées.",
+
+    "h-info-slider-h4":"Performances",
+    "h-info-slider-c4":"À l'aide de tous les indicateurs, évalue tes performances pour identifier tes points forts ainsi que tes points faibles",
+
+    "h-info-slider-h5":"À toi de jouer !",
+    "h-info-slider-c5":"Tu as toutes les cartes en main pour optimiser tes décisions de jeu et passer à la vitesse supérieure.",
+
+    "user-slider-heading":"Ils témoignent",
+    "user-slider-Ismail":"\"Un outil d'analyse puissant et automatisé couplé à une belle interface graphique, Bet trends m'a permis de parier plus intelligemment en prenant de meilleures décisions.\"" ,
+    "user-slider-ines":"\"Je n'avais jamais osé me lancer dans les paris sportifs mais grâce à cette application, j'ai pu débuter sereinement et gagner dès le début !\"" ,
+    "user-slider-alex":"\"L'outil d'analyse pour paris sportifs le plus ingénieux et complet que j'ai pu essayer. Je le recommande à tout ceux qui veulent augmenter leur ROI !\"",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "____FAQ____":"FAQ page is starting from here",
+
+    "faq-main-heading":"Questions fréquentes",
+
+    "left-btn-1":"Abonnement",
+    "left-btn-2":"Sécurité",
+    "left-btn-3":"Version iOS",
+    "left-btn-4":"Mon compte",
+
+    "faq-h1":"",
+    "faq-h1-1-h":"Pourquoi devenir premium ?",
+    "faq-h1-1-c":"L'application Bet Trends utilise tes données de paris pour te fournir un ensemble de statistiques. En devenant Premium tu auras accès des statistiques encore plus précises te permettant :\n- d'améliorer ta rentabilité\n- d'identifier tes points forts\n- de parier plus astucieusement",
+
+    "faq-h1-2-h":"Comment annuler mon abonnement ?",
+    "faq-h1-2-c":"Tu peux annuler ton abonnement Bet Trends dans l'application en accédant à :\n\"Google Play Strore\" -> \"Subscriptions\" -> \"Bet Trends\" -> \"Cancel my subscription\"\nSi tu rencontres un problème, contacte-nous par mail à l'adresse suivante :\nsupport@bet-trends.fr",
+
+    "faq-h1-3-h":"L'abonnement se renouvellera-t-il automatiquement ?",
+    "faq-h1-3-c":"L'abonnement Premium Bet Trends se renouvelle automatiquement pour t'éviter toute interruption de service. Si tu ne souhaites pas que ton abonnement Premium se renouvelle, tu devras résilier ton abonnement pour qu'il s'arrête à la prochaine date de paiement.",
+
+    "faq-h2":"get from button",
+    "faq-h2-1-h":"Mes identifiants bookmakers sont-ils mis en sécurité ?",
+    "faq-h2-1-c":"Lorsque vous vous connectez sur vos comptes des différents bookmakers sur l'application Bet Trends, vos identifiants sont chiffrés sur votre téléphone et ne sont pas stockés dans nos bases de données. ils sont donc utilisés de manière sécurisée et ne sont pas partagés avec Bet Trends.",
+
+    "faq-h3":"get from button",
+    "faq-h3-1-h":"Existe-t-il une version IOS de l'application ?",
+    "faq-h3-1-c":"Il n'existe actuellement pas de version iOS de l'application Bet Trends. Elle sortira sur iOS début 2021, reste donc connecté pour être prêt à la télécharger !",
+
+    "faq-h4":"get from button",
+    "faq-h4-1-h":"Comment supprimer mon compte ?",
+    "faq-h4-1-c":"Pour supprimer votre compte, vous devez nous adresser par email cette demande complétée par votre nom d'utilisateur et adresse email, à l'adresse suivante:\nsupport@bet-trends.fr",
+
+    "____LEGALNOTICES____":"FAQ page is starting from here",
+
+    "ln-main-heading":"Mentions Légales",
+    "ln-c":"Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l'économie numérique, dite L.C.E.N, il est indiqué aux utilisateurs du site Bet Trends l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.",
+    
+    "ln-h1":"Édition du site",
+    "ln-c1":"Le site Bet Trends accessible à l'URL https://bet-trends.com est édité par :\nBet Trends société par actions simplifiées au capital de 5000 euros, immatriculée au registre du commerce de Paris sous le n° 890 189 723 00012, dont les représentants légaux sont Enzo Sad-eddine et Gabriel Magnan.\n\nLe numéro de TVA intracommunautaire est le suivant : FR04890189723\nLe siège social de Bet Trends est situé à l'adresse : 6 rue d'Armaillé, 75017 Paris\nEmail : contact@bet-trends.fr",
+
+    "ln-h2":"Hébergement du site",
+    "ln-c2":"L'hébergement du site est effectué par :\nAmazon Web Services\nAmazon.com\nLegal Department\n410 Terry Avenue North\nP.O. Box 81226\nSeattle, WA 98108-1226 - USA",
+
+    "ln-h3":"Responsable de publication",
+    "ln-c3":"Le responsable de publication du site est Enzo Sad-eddine représentant de la société Bet Trends.",
+
+    "ln-h4":"Données à caractère personnel",
+    "ln-c4":"Le traitement de vos données à caractère personnel est régi par notre Charte du respect de la vie privée conformément au Règlement Général sur la Protection des Données 2016/679 du 27 avril 2016 (« RGPD »).",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "____PRIVACYPOLICY____":"Privacy Policy Page is starting from here",
+
+    "pp-top1":"BET TRENDS s’engage, dans le cadre de son activité et conformément à la législation en vigueur en France et en Europe, en particulier le Règlement général sur la protection des données de l’UE (« RGPD ») et la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés (« la Loi Informatique et Libertés »), à garantir la protection, la confidentialité et la sécurité des Données personnelles des Utilisateurs de notre Site et son Application BET TRENDS, ainsi qu’à respecter leur vie privée. Cette politique de confidentialité décrit comment BET TRENDS traite les informations et les données que l’Utilisateur lui fournit.\n\n",
+    "pp-top2-3":"Ainsi, BET TRENDS s’engage à collecter et effectuer des Traitements loyaux et licites de Données à caractère personnel.\n\nA ce titre, BET TRENDS veille à ce que l’Utilisateur concerné par le Traitement soit informé de la finalité de ce Traitement, de la durée de conservation des Données à caractère personnel traitées, du responsable du Traitement et le destinataire du Traitement.\n\n",
+    "pp-top4-5":"BET TRENDS s’engage à prendre les mesures nécessaires pour garantir la sécurité des données qu’elle a collectées et pour éviter leur divulgation à des tiers non autorisés.\n\nLa présente Politique de Confidentialité fait partie intégrante des Conditions générales d’utilisation du Site et des Conditions générales d’utilisation et de vente de l’Application BET TRENDS.\n\n",
+
+    "pp-h1":"1. Définitions",
+    "pp-h1-1h":"Abonnement",
+    "pp-h1-1c":"désigne les Services proposés par BET TRENDS qui se déclinent en 4 abonnements dont 3 abonnements payants, dits PREMIUM :\n–  Mensuel : 5,99€ ;\n–  Trimestriel : 14,99 € ; et\n–  Annuel : 49,99€.",
+
+    "pp-h1-2h":"Application (ou Application BET TRENDS)",
+    "pp-h1-2c":"désigne l’application BET TRENDS.",
+
+    "pp-h1-3h":"BET TRENDS",
+    "pp-h1-3c":"désigne la société BET TRENDS, société par actions simplifiée, enregistrée au R.C.S. de PARIS sous le numéro 890 189 723, dont l’établissement principal est situé 6 rue d’Armaillé – 75017 PARIS et dont les représentants légaux sont M. Enzo SAD-EDDINE et M. Gabriel MAGNAN.",
+
+    "pp-h1-4h":"Compte",
+    "pp-h1-4c":"désigne l’espace personnel de chaque Utilisateur auquel il accède grâce à ses Identifiants depuis l’Application BET TRENDS.",
+
+    "pp-h1-5h":"Cookies",
+    "pp-h1-5c":"désignent des données stockées dans le terminal de l’Utilisateur, utilisées par le Site et/ou l’Application pour envoyer des informations au navigateur de l’Utilisateur et permettant à ce navigateur de renvoyer des informations au site d’origine (par exemple un identifiant de session, le choix d’une langue ou une date).",
+
+    "pp-h1-6h":"Donnée personnelle ou Donnée à caractère personnel",
+    "pp-h1-6c":"toute information relative à une personne physique qui permet de l’identifier directement ou indirectement.",
+
+    "pp-h1-7h":"Identifiants",
+    "pp-h1-7c":"les nom et mot de passe de l’Utilisateur lui permettant d’avoir accès à son Compte depuis l’Application BET TRENDS.",
+
+    "pp-h1-8h":"Prix",
+    "pp-h1-8c":"désigne le prix proposé pour les Services proposés par BET TRENDS auxquels peuvent s’ajouter différents frais.",
+
+    "pp-h1-9h":"Service",
+    "pp-h1-9c":"désigne un service fourni par BET TRENDS.",
+
+    "pp-h1-10h":"Site",
+    "pp-h1-10c":"désigne le site internet disponible à l’adressehttps://bet-trends.com/.",
+
+    "pp-h1-11h":"Utilisateur",
+    "pp-h1-11c":"désigne tout utilisateur du Site et/ou de l’Application BET TRENDS, ayant souscrit un abonnement payant ou non, âgé de dix-huit (18) ans révolus.\n\nÀ jour du 9 novembre 2020",
+
+    "pp-h2":"2. Consentement à la politique de confidentialité",
+    "pp-h2-1c":"Nous traitons toutes les informations personnelles fournies comme décrit dans la présente Politique de confidentialité. En nous envoyant vos informations personnelles et en utilisant le Site Web de BET TRENDS et l’Application BET TRENDS, vous nous autorisez expressément à utiliser vos Données personnelles, dans les conditions décrites dans la présente Politique de confidentialité. Si vous n’acceptez pas la politique de confidentialité, n’utilisez pas le Site Web et/ou l’Application BET TRENDS ou ne nous fournissez pas vos informations personnelles.",
+    "pp-h2-2c":"En créant votre Compte lors de l’inscription sur l’Application BET TRENDS, vous acceptez les Conditions Générales d’Utilisation et de Vente de l’Application ainsi que la présente Politique de confidentialité. Le but de la Politique de confidentialité est de clarifier la manière dont nous prenons, utilisons et stockons vos informations personnelles et expliquons vos droits concernant ces informations. Toute modification ultérieure de cette politique de confidentialité vous sera communiquée et exigera votre acceptation. Vous ne serez pas autorisé à utiliser les Services de BET TRENDS si vous ne donnez pas votre consentement en créant votre Compte ou en acceptant une modification ultérieure à la création de votre Compte.",
+
+    "pp-h3":"3. Mise à jour de la politique de confidentialité",
+    "pp-h3-1c":"BET TRENDS se réserve le droit de procéder à la mise à jour de la présente Politique de Confidentialité du Site et de l’Application à tout moment et sans préavis.",
+    "pp-h3-2c":"Tout changement des présentes sera posté sur le Site et sur l’Application. Dans le cas de changements importants, BET TRENDS en avertira les Utilisateurs et sollicitera leur consentement si cela est nécessaire et impacte la finalité de la collecte des Données à caractère personnel.",
+    "pp-h3-3c":"Lors de l’utilisation du Site et/ou de l’Application, l’Utilisateur est tenu de se référer régulièrement à la dernière Politique de Confidentialité.",
+
+    "pp-h4":"4. Responsable du traitement",
+    "pp-h4-1c":"Les Données à caractère personnel de l’Utilisateur sont traitées par :\nEnzo SAD-EDDINE et M. Gabriel MAGNAN.\nsociété BET TRENDS\n6 rue d’Armaillé\n75017 PARIS",
+
+    "pp-h5":"5. Informations collectées",
+    "pp-h5-1c-3points":"Les informations et les Données utilisateurs que nous pouvons collecter, utiliser et traiter incluent les éléments suivants :\n– Informations fournies par l’Utilisateur lorsqu’il complète le formulaire d’inscription ou toute autre information qui nous est envoyée via le Site, l’Application ou par email, ce qui inclut nécessairement les noms, prénoms, date de naissance, nom d’utilisateur, adresses email, mots de passe, coordonnées bancaires et éventuellement la carte d’identité de l’Utilisateur.\n– Les historiques de paris que vous nous partagez au travers de l’Application BET TRENDS.\n",
+    "pp-h5-1c-4points":"– Les enregistrements de correspondance, soit par le biais du Site, de l’Application, par email, par téléphone ou par d’autres moyens.\n– Les réponses aux enquêtes ou études de marché réalisées par BET TRENDS.\n– Les données des transactions de paiement.\n– Les données des visites sur le Site et l’Application, y compris, mais sans s’y limiter, les données de trafic, les données de localisation, informations de communication.",
+    "pp-h5-2c":"En cas de refus de l’Utilisateur de fournir les informations nécessaires à la réalisation des Services fournis par BET TRENDS, l’Utilisateur ne pourra pas avoir accès aux Services de BET TRENDS notamment accessibles depuis l’Application.",
+    "pp-h5-3c":"BET TRENDS informe l’Utilisateur que la liste des Données personnelles collectées n’est pas exhaustives et pourra, si BET TRENDS l’estime légitime et que cette collecte est justifiée notamment par une évolution des dispositions applicables à la protection des données personnelles, demander à l’Utilisateur des informations additionnelles.",
+    "pp-h5-4c":"Nous nous engageons à respecter les principes suivants lors de la collecte d’information :\n– Nous collectons les Données dont nous avons besoin.\n– Nous traitons vos Données pour des finalités explicites, légitimes et déterminées.\n– Nous conservons vos Données pendant la durée nécessaire à la réalisation du traitement pour lesquelles elles ont été collectées ou, si tel est le cas, pendant la durée fixée par la loi.\n– Nous veillons à mettre en œuvre les mesures de sécurité adaptées afin d’assurer un niveau de protection élevé de vos Données.",
+    "pp-h5-5c":"Le contenu du Site BET TRENDS est visible par des mineurs mais ne vise pas ce public.\n\nL’accès à l’Application BET TRENDS est quant à elle refusée aux mineurs.\n\nBET TRENDS n’utilise intentionnellement aucune Données à caractère personnel d’Utilisateur mineur de moins de 16 ans.",
+    "pp-h5-6c":"Dans le cas dans lequel des informations personnelles relatives à l’Utilisateur mineur de moins de 16 ans auraient été recueillies par BET TRENDS, le représentant légal de celui-ci pourra contacter BET TRENDS afin d’accéder, rectifier, compléter, mettre à jour ou supprimer ces Données dans les mêmes conditions que celles prévues dans la présente Politique de confidentialité.",
+    
+    "pp-h6":"6. Sécurité des données collectées",
+    "pp-h6-1c":"BET TRENDS s’engage à assurer la sécurité des Données à caractère personnel de l’Utilisateur en mettant en place des mesures de protection techniques, physiques, électroniques et administratives proportionnées aux risques encourus et conformes à la réglementation applicable.",
+    "pp-h6-2c":"BET TRENDS ne saurait être tenu responsable des risques liés au fonctionnement du réseau internet de l’Utilisateur. Il appartient à l’Utilisateur de s’assurer de la mise en place de moyens sécurisant son réseau internet.",
+    "pp-h6-3c":"En cas d’accès non autorisé à son Compte personnel par un tiers, l’Utilisateur doit en informer BET TRENDS par courriel à l’adresse support@bet-trends.fr ou par courrier à l’adresse suivante : 6 rue d’Armaillé, 75017 Paris.",
+
+    "pp-h7":"7. Bases légales des traitements",
+    "pp-h7-1c":"BET TRENDS ne traite des Données à caractère personnel de l’Utilisateur que sur le fondement de l’une ou de l’autre des bases légales pertinentes suivantes :",
+    "pp-h7-2c":"La nécessité : lorsque le traitement est nécessaire pour fournir le service demandé par l’Utilisateur ;\nLe consentement : lorsque l’Utilisateur consent expressément au traitement de ses Données.",
+    "pp-h7-3c":"Dans le dernier cas, le consentement sera recueilli par l’acte positif de l’Utilisateur qui consiste à cocher la case l’informant de la collecte et du Traitement de ses Données à caractère personnel.",
+
+    "pp-h8":"8. Utilisation de l'information",
+    "pp-h8-1c":"Nous utiliserons vos Données pour :\n– Créer, exploiter et gérer votre Compte.\n– Nous assurer de l’identité de l’Utilisateur.\n– Vérifiez votre emplacement géographique, afin d’utiliser les services de localisation pour détecter votre position géographique depuis votre ordinateur personnel ou votre appareil, qui pourrait inclure l’adresse IP, les données de connexion Wi-Fi et les Cookies.\n– Identification de l’Utilisateur.\n– Confirmer les transactions financières.\n– Permettre la réalisation de Services.\n– Marketing, étude de marché.\n– Respecter nos obligations légales et réglementaires.\n– Vous informer.\n– Lutter contre la fraude et tenter de la prévenir.",
+    
+    "pp-h9":"9. Transfert de données à caractère personnel",
+    "pp-h9-1c":"BET TRENDS est le seul destinataire des Données à caractère personnel qu’elle collecte.\n\nBET TRENDS sollicite l’aide de prestataire externe afin de stocker de façon sécuriser et de traiter les Données collectées, et ce toujours dans le respect des dispositions applicables à la protection des données personnelles.",
+    "pp-h9-2c":"En tout état de cause, BET TRENDS s’engage à ce que les Données personnelles des Utilisateurs soient toujours utilisées dans le cadre des finalités de traitement exposées dans les présentes.\n\nEn cas de transferts des Données personnelles de l’Utilisateur hors de l’Espace Economique Européen, BET TRENDS s’engage à mettre en œuvre les garantis nécessaires permettant de garantir une protection des Données personnelles en adéquation avec les présentes.",
+    "pp-h9-3c":"BET TRENDS ne transférera les Données personnelles de l’Utilisateur hors de l’Espace Economique Européen que dans les conditions prévues par le Règlement Européen sur la Protection des Données.\n\nDans tous les cas, BET TRENDS, en tant que responsable du traitement, s’engage à s’assurer que tous ses prestataires sont en conformité avec les dispositions de la Loi Informatique et Liberté et celles du RGPD garantissant la protection des Données à caractère personnel.\n\nL’Utilisateur accepte ce transfert de Données personnelles aux tiers sélectionnés par BET TRENDS en acceptant la présente Politique de confidentialité.",
+
+    "pp-h10":"10. Politique de cookies",
+    "pp-h10-c":"BET TRENDS peut être amené à utiliser des cookies afin d’analyser la fréquentation et l’utilisation qui est faite du Site afin notamment d’améliorer ses Services.",
+    "pp-h10-1h":"1. DEFINITIONS",
+    "pp-h10-1-1h-h":"BET TRENDS",
+    "pp-h10-1-1h-c":"désigne la société BET TRENDS, société par actions simplifiée, enregistrée au R.C.S. de PARIS sous le numéro 890 189 723, dont l’établissement principal est situé 6 rue d’Armaillé – 75017 PARIS et dont les représentants légaux sont M. Enzo SAD-EDDINE et M. Gabriel MAGNAN.",
+    "pp-h10-1-2h-h":"Cookies",
+    "pp-h10-1-2h-c":"désignent des données stockées dans le terminal de l’Utilisateur, utilisées par le Site pour envoyer des informations au navigateur de l’Utilisateur et permettant à ce navigateur de renvoyer des informations au site d’origine (par exemple un identifiant de session, le choix d’une langue ou une date).",
+    "pp-h10-1-3h-h":"Donnée à caractère personnel ou données personnelles",
+    "pp-h10-1-3h-c":"désigne toute information identifiant directement ou indirectement une personne physique.",
+    "pp-h10-1-4h-h":"Site",
+    "pp-h10-1-4h-c":"désigne le site Internet disponible à l’adresse https://bet-trends.com.",
+    "pp-h10-1-5h-h":"Traitement",
+    "pp-h10-1-5h-c":"désigne toute opération, ou ensemble d’opérations, portant sur des Données à caractère personnel, quel que soit le procédé utilisé.",
+    "pp-h10-1-6h-h":"Utilisateur",
+    "pp-h10-1-6h-c":"désigne tout visiteur du Site, professionnel ou particulier, client ou non de BET TRENDS.\nÀ jour du 6 novembre 2020.",
+
+    "pp-h10-2h":"2. FINALITE",
+    "pp-h10-2c":"BET TRENDS utilise des Cookies dans le but d’analyser la fréquentation et l’utilisation qui est faite du Site.",
+
+    "pp-h10-3h":"3. COOKIES UTILISES",
+    "pp-h10-3c-1":"Les Cookies utilisés sur le Site sont les Cookies de tiers limitativement choisis par BET TRENDS dans le but de réaliser des objectifs déterminés. A ce titre, BET TRENDS peut être amené à utiliser trois types de Cookies :",
+    "pp-h10-3c-2":"– Les Cookies fonctionnels obligatoires, nécessaires au bon fonctionnement du Site et des Services de BET TRENDS ;\n\n – Les Cookies statistiques qui permettent à BET TRENDS de collecter des informations relatives à l’utilisation faite du Site afin d’améliorer l’ergonomie et les services du Site ;\n\n– Les Cookies marketing qui permettent à BET TRENDS d’adresser à l’Utilisateur des publicités adaptées à ses centres d’intérêts.",
+    "pp-h10-3c-3":"BET TRENDS utilise les services offerts par Google Analytics permettant de connaître le nombre de visiteurs qui se rendent sur le Site, comment ils y accèdent et l’utilisation faite du Site.\nLes données collectées par l’intermédiaire des Cookies sont transmises et stockées par Google Analytics. La société Google est adhérente au Safe Harbor et assure par conséquent un niveau de protection adéquat des données personnelles (Décision 2000/520/CE du 26-7-2000).",
+    
+    "pp-h10-4h":"4. DONNEES GENEREES PAR LES COOKIES",
+    "pp-h10-4c":"Les données générées par les Cookies concernent l’utilisation faite du Site par l’Utilisateur ainsi que l’adresse IP de l’Utilisateur afin de connaître la ville de connexion.\nLes données relatives au lieu de connexion sont immédiatement anonymisées après localisation de l’Utilisateur et ne sont pas communiquées à BET TRENDS.",
+
+    "pp-h10-5h":"5. CONSENTEMENT ET DUREE DE CONSERVATION",
+    "pp-h10-5c":"Lorsque l’Utilisateur accède au Site, un bandeau l’informant de la finalité des Cookies utilisés, de la possibilité de s’opposer à ces Cookies et du fait que la poursuite de sa navigation vaut accord apparaît.\nLa durée de consentement est au maximum de 13 mois et dépend du Cookie utilisé :",
+
+    "pp-h10-table-c2r1":"Durée de conservation",    
+    "pp-h10-table-c2r2":"13 mois",
+
+    "pp-h10-6h":"6. GESTION DES COOKIES",
+    "pp-h10-6c":"BET TRENDS rappelle à l’Utilisateur qu’il lui est conseillé de supprimer régulièrement les Cookies de son terminal via son navigateur et qu’à ce titre plusieurs options sont possibles.\nL’Utilisateur peut, en effet, paramétrer le navigateur de ses différents terminaux afin d’accepter tous les Cookies, ou de les rejeter ou encore de choisir ceux qu’il choisit d’accepter ou de refuser selon l’émetteur ou, au cas par cas, préalablement à l’installation des Cookies.\nLa configuration de chaque navigateur est différente et peut être trouvée dans le menu d’aide du navigateur utilisé ou sur le site internet de celui-ci.\nLorsque que l’Utilisateur s’oppose à l’installation ou à l’utilisation d’un Cookie, un Cookie de refus est installé sur son terminal. La suppression de ce Cookie de refus ne permettra plus d’identifier le refus de l’Utilisateur. \nIl en est de même pour les Cookies de consentement installés lorsque l’Utilisateur consent à l’installation de Cookies.\nAfin que les paramètres de consentement soient conservés, les Cookies de consentement ou de refus doivent être conservés dans le terminal de l’Utilisateur.",
+
+    "pp-h10-7h":"7. VOS DROITS",
+    "pp-h10-7c":"Si vous avez d’autres questions sur la manière dont BET TRENDS utilise les Cookies, vous pouvez la contacter à l’adresse : support@bet-trends.fr.",
+
+    "pp-h11":"11. Paiement",
+    "pp-h11-1c":"Certains des Services disponibles sur l’Application BET TRENDS sont payants. A cette fin, vous acceptez que nous puissions avoir recours à des prestataires de services externes qui peuvent collecter des Données à caractère personnel dans le but de permettre le bon fonctionnement des services de traitement des paiements par carte de crédit ou tout autre moyen de paiement et, le cas échéant, de livraison de produits ou services.",
+    "pp-h11-2c":"Pour régler votre achat, vous devez fournir vos coordonnées de facturation ainsi que vos coordonnées de paiement, et notamment le numéro de votre carte bancaire, la date de validité, le code de sécurité et le nom du titulaire de la carte en cas de paiement par carte bancaire.\nIl peut également vous être demandé de fournir le nom de votre opérateur télécom, le modèle de votre téléphone portable et un numéro de portable valide afin de pouvoir fournir les instructions d’achat directement à travers votre téléphone mobile.",
+    "pp-h11-3c":"Nous conservons les détails de vos paiements, ainsi que les détails des achats que vous effectuez. Le détail des transactions est conservé soit dans nos systèmes soit chez le prestataire externe. Cette conservation est effectuée à des fins internes, notamment pour la comptabilité, la conformité et à des fins juridiques, conformément au paragraphe 6 de la présente Politique de confidentialité.",
+
+    "pp-h12":"12. Conservation",
+    "pp-h12-1c":"Nous ne conserverons vos Données à caractère personnel que le temps de votre inscription sur l’Application ou Site BET TRENDS afin d’assurer votre identification lors de votre connexion à votre Compte et de permettre la fourniture des Services. Ainsi, si vous procédez à votre désinscription du Site et/ou de l’Application, vos Données à caractère personnel seront effacées et uniquement conservées sous forme d’archive aux fins d’établissement de la preuve d’un droit ou d’un contrat.",
+    "pp-h12-2c":"En tout état de cause, nous conserverons vos Données à caractère personnel pendant une durée n’excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées conformément aux utilisations exposées dans la présente politique et dans le respect des lois et règlements.",
+
+    "pp-h13":"13. Droits de l'utilisateur",
+    "pp-h13-1c":"L’Utilisateur concerné par le Traitement de Données à caractère personnel bénéficie d’un droit d’opposition pouvant être exercé à tout moment en contactant BET TRENDS dans les conditions ci-après définies. Dans le cas où ce droit serait exercé, l’Utilisateur ne pourra plus accéder aux fonctionnalités du Site et de l’Application nécessitant le Traitement de ses Données.",
+    "pp-h13-2c":"L’Utilisateur bénéficie également d’un droit d’accès, de rectification et d’effacement de ses Données à caractère personnel lui permettant notamment d’accéder aux informations le concernant et d’exiger que ses données soient, selon les cas, rectifiées, complétées, mises à jour ou supprimées.",
+    "pp-h13-3c":"L’Utilisateur bénéficie en outre d’un droit à la portabilité lui permettant notamment de récupérer les données le concernant traitées par BET TRENDS pour son usage personnel et/ou de les transférer à un nouvel organisme.\n\nL’utilisateur bénéficie également d’un droit de retrait de son consentement. Ce droit peut notamment être utilisé lors de la réception de tout courrier électronique en cliquant sur la mention « se désinscrire » présente sur ces emails.",
+    "pp-h13-4c":"Toute question ou demande relative au Traitement de Données à caractère personnel doit être adressée par voie électronique à : support@bet-trends.fr ou par courrier à l’adresse suivante : 6 rue d’Armaillé, 75017 Paris.\n\nL’Utilisateur doit indiquer dans sa demande son nom, prénom, dénomination sociale, adresse postale et email et transmettre à BET TRENDS une copie d’une pièce d’identité afin que BET TRENDS puisse s’assurer de son identité.\n\nBET TRENDS dispose d’un délai de réponse de deux (2) mois à compter de la date de réception de la demande de l’Utilisateur.",
+
+    "pp-h14":"14. Loi applicable et droit de réclamation",
+    "pp-h14-1c":"La loi applicable à la présente Politique de Confidentialité est la loi française.\n\nConformément à la loi “informatique et libertés” du 6 janvier 1978 dans sa version en vigueur, vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant par courrier électronique à l’adresse email support@bet-trends.fr ou par courrier à l’adresse suivante :\n6 rue d’Armaillé, 75017 Paris.",
+    "pp-h14-2c":"Dans le cas où l’Utilisateur ne serait pas satisfait des réponses de BET TRENDS à ses réclamations ou considérerait que le traitement des Données personnelles est contraire à la loi, il peut contacter la Commission Nationale de l’Information et des Libertés (CNIL), 3 Place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07, Tél. : 01 53 73 22 22, Site Web :",
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    "____TERMS-OF-USE____":"Terms of Service page is starting from here",
+
+
+    "tou-main-heading-1":"Conditions générales d'utilisation",
+    "tou-main-heading-2":"(site web)",
+
+    "tou-h1":"1. Définitions",
+    "tou-h1-1-h":"Site",
+    "tou-h1-1-c":"désigne le site internet disponible à l’adresse https://bet-trends.com",
+
+    "tou-h1-2-h":"BET TRENDS",
+    "tou-h1-2-c":"désigne la société BET TRENDS, société par actions simplifiée, enregistrée au R.C.S. de PARIS sous le numéro 890 189 723, dont l’établissement principal est situé 6 rue d’Armaillé – 75017 PARIS et dont les représentants légaux sont M. Enzo SAD-EDDINE et M. Gabriel MAGNAN.",
+
+    "tou-h1-3-h":"L’utilisateur",
+    "tou-h1-3-c":"signe tout visiteur du Site, professionnel ou particulier, client ou non de BET TRENDS.",
+
+    "tou-h1-4-h":"Service",
+    "tou-h1-4-c":"désigne une prestation de services fournie par BET TRENDS.\nConditions Générales d’Utilisation à jour du 6 novembre 2020.",
+
+    "tou-h2":"2. Acceptation des conditions générales d'utilisation",
+    "tou-c2":"Les présentes Conditions Générales d’Utilisation (ci-après les CGU) ont pour objet de définir les modalités et conditions dans lesquelles d’une part, la société BET TRENDS met à la disposition de tout Utilisateur, client ou non, le site https://bet-trends.com qu’elle exploite, et les services disponibles sur le Site et, d’autre part, la manière par laquelle les Utilisateurs accèdent au Site et utilisent ses Services.\nEn accédant ou en utilisant le présent Site l’Utilisateur accepte sans réserve les présentes Conditions Générales d’Utilisation du Site.\nBET TRENDS peut procéder à la mise à jour des présentes Conditions Générales d’Utilisation du Site. Si l’Utilisateur n’accepte pas les modifications apportées aux Conditions Générales d’Utilisation du Site, il doit cesser toute utilisation du Site.",
+
+    "tou-h3":"3. Informations disponibles sur le site",
+    "tou-c3":"Le Site a pour objectif de présenter BET TRENDS et l’application du même nom et les Services disponibles depuis ladite application BET TRENDS.\nBET TRENDS met tout en œuvre pour vous proposer des informations complètes et vérifiées, dans la limite de ses propres connaissances ou des informations mises à sa disposition. \nBET TRENDS peut modifier les informations contenues dans ce Site relatives aux Services, aux publications, aux spécifications techniques ou aux tarifs à tout moment sans le moindre préavis.\nLes Utilisateurs sont informés qu’en cas de modification des présentes CGU, elles leur seront opposables dans un délai de 72 heures suivant la mise en ligne sur le Site.",
+
+    "tou-h4":"4. Propriété intellectuelle",
+    "tou-h4.1":"4.1   Droit d’auteur",
+    "tou-c4.1":"Le Site et chacun des éléments qui le compose, notamment sous forme de textes, photographies, images, icônes, sons, vidéos, logiciels, base de données ou données sont protégés par le droit de la propriété intellectuelle.\nBET TRENDS est titulaire de tous les droits de propriété intellectuelle afférents au Site ou ses éléments.\nToute reproduction, représentation, modification, transmission, publication, adaptation ou exploitation du Site ou de ces éléments, y compris des documents disponibles au téléchargement sur le Site, sur quelque support que ce soit et de quelque manière que ce soit, sans autorisation écrite et préalable de BET TRENDS, est interdite et serait susceptible de constituer des actes de contrefaçon au sens des dispositions du Code de la propriété intellectuelle.\nLa reproduction ou représentation non substantielles du Site ou de ses éléments, y compris des documents disponibles au téléchargement sur le Site, sont autorisées à des fins strictement privées et non commerciales.\nLa reproduction autorisée du Site ou de ses éléments devra indiquer de manière apparente la source et le nom de l’auteur du contenu reproduit.",
+    "tou-h4.2":"4.2   Droit des marques",
+    "tou-c4.2":"Sauf mention contraire, les dénominations sociales, logos, produits et marques reproduits ou cités dans le Site sont la propriété de BET TRENDS ou de ses partenaires.\nToute reproduction de ces signes, sans autorisation écrite et préalable de BET TRENDS, est interdite.",
+
+    "tou-h5":"5. Données à caractère personnel",
+    "tou-c5":"Au cours de sa navigation sur le Site, l’Utilisateur peut être amené à communiquer des informations personnelles le concernant. \nBET TRENDS s’applique à respecter les informations ainsi soumises et a mis en place une Politique de Confidentialité disponible à l’adresse suivante :",
+
+    "tou-h6":"6. Cookies",
+    "tou-c6":"Lors de sa première visite sur le Site, l’Utilisateur est amené à installer des cookies sur son périphérique de connexion. Les informations relatives aux cookies utilisés par BET TRENDS sont disponibles à l’adresse suivante :",
+
+    "tou-h7":"7. Limitation de responsabilité",
+    "tou-c7":"BET TRENDS ne saurait garantir l’exactitude, l’exhaustivité ou l’actualité des informations contenues sur le Site, ni leur adéquation avec les besoins de l’Utilisateur.L’Utilisateur est responsable de l’utilisation des informations contenues sur le Site et assume pleinement les risques liés à cette utilisation.A ce titre, BET TRENDS ne saurait être tenu responsable de l’utilisation faite des informations contenues sur le Site par l’Utilisateur et des dommages directs ou indirects résultant de cette utilisation.BET TRENDS ne saurait être tenu responsable des dommages directs ou indirects, matériels ou immatériels, résultant de l’utilisation du Site, des erreurs, absence de disponibilité des informations ou de la présence d’un virus sur le Site.L’Utilisateur s’engage à jouer dans la limite de ses capacités financières et de son état psychologique.",
+
+    "tou-h8":"8. Accessibilité du site",
+    "tou-c8":"BET TRENDS s’efforce de permettre l’accès au Site 24/24 heures, 7/7 jours, sauf en cas de force majeure ou d’un événement hors du contrôle de BET TRENDS, et sous réserve des éventuelles pannes et interventions de maintenance nécessaires au bon fonctionnement du Site et des services.\nPar conséquent, BET TRENDS ne peut garantir la disponibilité du Site et/ou des services ni la fiabilité des transmissions ou des performances.\nBET TRENDS ne propose pas d’assistance technique auprès de l’Utilisateur, que ce soit par des moyens électroniques ou téléphoniques.\nLa responsabilité de BET TRENDS ne saurait être engagée en cas d’impossibilité d’accès au Site et/ou d’utilisation des services pour les raisons susmentionnées.\nConcernant l’accès du Site depuis l’étranger, le Site est accessible à partir de plusieurs pays dans le monde et peut contenir des références à des services que BET TRENDS ne propose pas dans le pays de l’Utilisateur.BET TRENDS ne saurait en aucun cas être tenu d’offrir ces services dans le pays de l’Utilisateur.",
+
+    "tou-h9":"9. Newsletter",
+    "tou-c9":"Les Utilisateurs du Site et de l’application mobile ont la possibilité de souscrire à une newsletter leur permettant d’être informé de l’actualité, des nouveautés et des promotions de BET TRENDS, directement sur la boite de messagerie électronique renseignée par l’Utilisateur.\nL’inscription à ce service est gratuite, et implique l’acceptation pleine et entière par l’Utilisateur des présentes Conditions Générales d’utilisation.\nLes Newsletters ont pour seul but de diffuser des informations et ne sauraient engager la responsabilité de BET TRENDS au regard des conséquences directes ou indirectes liées à l’utilisation des Newsletters par les Utilisateurs abonnés.\nLa souscription se fait en cochant la case « J’accepte de recevoir la newsletter » lors de l’inscription sur l’application mobile ou site web Bet Trends.\nL’Utilisateur s’engage à ne pas souscrire en utilisant une adresse email dont il n’est pas titulaire et à ne pas usurper l’identité d’une autre personne morale ou physique.\nL’Utilisateur peut se désinscrire de la newsletter à tout moment en faisant la demande expresse par l’intermédiaire de l’envoie d’un email à l’adresse support@bet-trends.fr.\nLa désinscription sera effective sous un délai de 48 heures, afin de permettre le traitement de la demande de désinscription par BET TRENDS.\nL’ensemble des informations relatives à l’Utilisateur seront détruites par BET TRENDS conformément aux dispositions prévues dans la Politique de Confidentialité, accessible au lien suivant :",
+
+    "tou-h10":"10. Liens hypertextes",
+    "tou-c10":"Le Site contient des liens renvoyant vers des sites internet qui ne sont pas contrôlés par BET TRENDS.\nLes liens figurant sur le Site sont proposés en tant que services par BET TRENDS et la décision de les activer appartient exclusivement à l’Utilisateur.\nBET TRENDS n’est aucunement responsable des contenus des sites internet auxquels l’Utilisateur accède par le Site.\nBET TRENDS ne saurait être tenu responsable des dommages directs ou indirects, matériels ou immatériels, résultant de l’utilisation du site internet auquel l’Utilisateur aurait accédé par le Site, des erreurs, absence de disponibilité des informations ou de la présence d’un virus sur ce site.",
+
+    "tou-h11":"11. Restrictions relatives aux paris sportifs",
+    "tou-c11":"Les Services du Site ne sont pas accessibles aux mineurs, même émancipés. Le Site décrit les Services proposés par l’application BET TRENDS qui est un outil d’analyse de paris sportifs.\nLes paris sportifs n’étant pas ouverts aux personnes âgées de moins de 18 ans, BET TRENDS n’est pas accessible aux personnes âgées de moins de 18 ans.\nSi un Utilisateur âgé de moins de 18 ans venait à s’inscrire sur l’application BET TRENDS, son compte serait immédiatement fermé.\nFinalement, l’Utilisateur de l’application BET TRENDS ne doit pas être inscrit sur le fichier national des interdits de jeux.",
+
+    "tou-h12":"12. Promotions",
+    "tou-c12":"Sauf mentions particulières, les promotions ne sont pas cumulables entre elles.\nTout abus d’ouverture de compte afin de bénéficier d’offres promotionnelles peut entraîner la suspension ou fermeture d’un compte Utilisateur ou l’exclusion de l’Utilisateur.",
+
+    "tou-h13":"13. Règles d'usage d'Internet",
+    "tou-c13-1":"L’Utilisateur déclare accepter les caractéristiques et les limites d’internet, et notamment reconnaît que :",
+    "tou-c13-2":"– BET TRENDS n’assume aucune responsabilité sur les services accessibles par internet et n’exerce aucun contrôle de quelque forme que ce soit sur la nature et les caractéristiques des données qui pourraient transiter par l’intermédiaire de son centre serveur ;\n\n– Les données circulant sur l’internet peuvent être réglementées en termes d’usage ou être protégées par un droit de propriété, ce qui n’empêche pas leur éventuel détournement ;\n\n– L’Utilisateur, qu’il soit simple visiteur ou client, est responsable de l’usage des données qu’il consulte, interroge et transfère sur l’internet\n\n BET TRENDS ne dispose d’aucun moyen de contrôle sur le contenu des services accessibles sur internet.",
+
+    "tou-h14":"14. Sécurité informatique",
+    "tou-c14":"Le Site met en place un système sécurisé garantissant l’intégrité des données informatiques y figurant.\nL’Utilisateur du Site s’engage à n’avoir aucune activité et/ou comportement susceptible de perturber ou de tenter de perturber le bon fonctionnement du Site et/ou de son activité.\nToute violation de la présente disposition est susceptible d’engager la responsabilité de l’Utilisateur pour toute atteinte à l’activité du Site.",
+
+    "tou-h15":"15. Mise à jour des conditions générales d'utilisation du site",
+    "tou-c15":"BET TRENDS se réserve le droit de procéder à la mise à jour des présentes Conditions Générales d’Utilisation du Site à tout moment et sans préavis.\nLes Utilisateurs sont informés qu’en cas de modification des présentes CGU, elles leur seront opposables dans un délai de 72 heures suivant la mise en ligne sur le Site.\nLors de l’utilisation du Site, l’Utilisateur est tenu de se référer régulièrement aux dernières Conditions Générales d’Utilisation du Site.",
+
+    "tou-h16":"16. Renonciation et divisibilité",
+    "tou-c16":"Ne constitue pas une renonciation à une disposition des présentes Conditions Générales d’Utilisation le fait pour BET TRENDS de ne pas respecter ou faire respecter cette disposition.\nDans le cas où une disposition des présentes Conditions Générales d’Utilisation serait déclarée invalide ou inapplicable, BET TRENDS s’engage à modifier cette disposition afin de la rendre valide ou applicable, sans que cette modification n’affecte les autres dispositions des Conditions Générales d’Utilisation.",
+
+    "tou-h17":"17. Loi applicable",
+    "tou-c17":"Les présentes Conditions Générales d’Utilisation du Site sont soumises au droit français.\nLes jeux d’argent et de hasard en ligne sont soumis aux dispositions de la loi n° 2010-476 du 12 mai 2010 relative à l’ouverture à la concurrence et à la régulation du secteur des jeux d’argent et de hasard en ligne (1).\nTout litige relatif à l’existence, la validité, l’interprétation, l’exécution ou l’inexécution des présentes Conditions Générales d’Utilisation du Site sera soumis aux Tribunaux français compétents dans les conditions de droit commun.",
+
+    "tou-h18":"18. Divers",
+    "tou-c18":"Si une ou plusieurs stipulations des CGU sont tenues pour non valides ou déclarées comme telles en application d’une loi, d’un règlement ou à la suite d’une décision définitive d’une juridiction compétente, les autres stipulations garderont toute leur force et portée.\nLes présentes CGU ne créent pas entre l’Utilisateur et BET TRENDS, une société ou entreprise commune, contrat de travail ou mandat.",
+
+
+
+
+
+
+
+
+
+
+
+    "____CGUV____":"CGUV page is starting from here",
+
+    "cguv-main-heading-1":"Conditions générales d'utilisation et de vente",
+    "cguv-main-heading-2":"(application mobile)",
+    "cguv-c":"Les présentes Conditions générales d’utilisation et de vente (ci-après désignées « CGUV ») régissent de manière exclusive les relations contractuelles entre la société BET TRENDS, et ses clients.\nLes présentes CGUV forment le Contrat entre BET TRENDS et l’Utilisateur pour la réalisation des Services.",
+
+    "cguv-h1":"1. Définitions",
+
+    "cguv-h1-1-h":"Abonnement",
+    "cguv-h1-1-c":"désigne les Services proposés par BET TRENDS qui se déclinent en 4 abonnements dont 3 abonnements payants, dits PREMIUM :\n    – Mensuel : 5,99€ ;\n    – Trimestriel : 14,99 € ;\n    – Annuel : 49,99€.",
+
+    "cguv-h1-2-h":"Application (ou Application BET TRENDS)",
+    "cguv-h1-2-c":"désigne l’application BET TRENDS.",
+
+    "cguv-h1-3-h":"BET TRENDS",
+    "cguv-h1-3-c":"désigne la société BET TRENDS, société par actions simplifiée, enregistrée au R.C.S. de PARIS sous le numéro 890 189 723, dont l’établissement principal est situé 6 rue d’Armaillé – 75017 PARIS et dont les représentants légaux sont M. Enzo SAD-EDDINE et M. Gabriel MAGNAN.",
+    
+    "cguv-h1-4-h":"Compte",
+    "cguv-h1-4-c":"désigne l’espace personnel de chaque Utilisateur auquel il accède grâce à ses Identifiants depuis l’Application BET TRENDS.",
+    
+    "cguv-h1-5-h":"Donnée personnelle ou Donnée à caractère personnel",
+    "cguv-h1-5-c":"toute information relative à une personne physique qui permet de l’identifier directement ou indirectement.",
+    
+    "cguv-h1-6-h":"Identifiants",
+    "cguv-h1-6-c":"les nom et mot de passe de l’Utilisateur lui permettant d’avoir accès à son Compte depuis l’Application BET TRENDS.",
+    
+    "cguv-h1-7-h":"Prix",
+    "cguv-h1-7-c":"désigne le prix proposé pour les Services proposés par BET TRENDS auxquels peuvent s’ajouter différents frais.",
+    
+    "cguv-h1-8-h":"Service",
+    "cguv-h1-8-c":"désigne un service fourni par BET TRENDS.",
+    
+    "cguv-h1-9-h":"Service client",
+    "cguv-h1-9-c":"désigne le service après-vente fourni par BET TRENDS.",
+    
+    "cguv-h1-10-h":"Site",
+    "cguv-h1-10-c":"désigne le site internet disponible à l’adresse ",
+    
+    "cguv-h1-11-h":"Utilisateur",
+    "cguv-h1-11-c":" désigne tout utilisateur de l’Application BET TRENDS, ayant souscrit un abonnement payant ou non, âgé de dix-huit (18) ans révolus.\nConditions Générales d’Utilisation et de Vente à jour du 9 novembre 2020.",
+
+    "cguv-h2":"2. Acceptation des conditions générales d'utilisation et de vente",
+    "cguv-c2":"Les présentes Conditions Générales d’Utilisation et de Vente (ci-après les CGUV) ont pour objet de définir les modalités et conditions dans lesquelles d’une part, la société BET TRENDS met à la disposition de tout Utilisateur de l’Application BET TRENDS qu’elle exploite et, d’autre part, la manière par laquelle les Utilisateurs accèdent à l’Application BET TRENDS et utilisent ses Services.\nEn accédant ou en utilisant la présente Application l’Utilisateur accepte sans réserve les présentes Conditions Générales d’Utilisation et de Vente de l’Application BET TRENDS.\nLes présentes CGUV entrent en vigueur à compter de la création de son Compte par l’Utilisateur sur l’Application et resteront en vigueur jusqu’à la fermeture du Compte.\nBET TRENDS peut procéder à la mise à jour des présentes Conditions Générales d’Utilisation et de Vente de l’Application. Si l’Utilisateur n’accepte pas les modifications apportées aux Conditions Générales d’Utilisation et de Vente de l’Application, il doit cesser toute utilisation de l’Application BET TRENDS.\nEn accédant ou en utilisant le présent Site l’Utilisateur accepte sans réserve les présentes Conditions Générales d’Utilisation du Site.\nBET TRENDS peut procéder à la mise à jour des présentes Conditions Générales d’Utilisation du Site. Si l’Utilisateur n’accepte pas les modifications apportées aux Conditions Générales d’Utilisation du Site, il doit cesser toute utilisation du Site.",
+
+    "cguv-h3":"3. Mise à jour des conditions générales d'utilisation et de vente",
+    "cguv-c3":"BET TRENDS se réserve le droit de procéder à la mise à jour des présentes Conditions Générales d’Utilisation et de Vente de l’Application à tout moment et sans préavis.\nLes Utilisateurs sont informés qu’en cas de modification des présentes CGUV, elles leur seront opposables lors de leur prochaine connexion lors de laquelle ils seront invités à les accepter afin de pouvoir accéder de nouveau à l’Application BET TRENDS.\nLors de l’utilisation de l’Application, l’Utilisateur est tenu de se référer régulièrement aux dernières Conditions Générales d’Utilisation et de Vente de l’Application.\nBET TRENDS met tout en œuvre pour vous proposer des informations complètes et vérifiées, dans la limite de ses propres connaissances ou des informations mises à sa disposition. \nBET TRENDS peut modifier les informations contenues dans ce Site relatives aux Services, aux publications, aux spécifications techniques ou aux tarifs à tout moment sans le moindre préavis.\nLes Utilisateurs sont informés qu’en cas de modification des présentes CGU, elles leur seront opposables dans un délai de 72 heures suivant la mise en ligne sur le Site.",
+
+    "cguv-h4":"4. Informations disponibles sur l'application",
+    "cguv-c4":"L’Application a pour objectif de permettre à ses Utilisateurs d’analyser leurs paris sports.\nBET TRENDS met tout en œuvre pour vous proposer des informations complètes et vérifiées, dans la limite de ses propres connaissances ou des informations mises à sa disposition. \nBET TRENDS peut modifier les informations contenues dans son Application relatives aux Services, aux offres, aux visuels, aux publications, aux spécifications techniques ou aux tarifs à tout moment sans le moindre préavis.\nLes Utilisateurs sont informés qu’en cas de modification des présentes CGUV, elles leur seront opposables lors de leur prochaine connexion lors de laquelle ils seront invités à les accepter afin de pouvoir accéder de nouveau à l’Application BET TRENDS.",
+
+    "cguv-h5":"5. Description des services associés à l'application",
+    "cguv-c5-1":"L’Application BET TRENDS permet à l’Utilisateur d’accéder aux Services suivants :",
+    "cguv-c5-2":"– Création d’un Compte personnel grâce à des Identifiants personnels et uniques ;\n\n– Récupération automatique des Données des Utilisateurs depuis les applications bookmakers sélectionnées ;\n\n– Visualisation de plus de 45 graphiques et indicateurs clés sur les paris de l’utilisateur tels que :\n    – Bankroll\n    – Bénéfices\n    – ROI\n    – Mises\n\n– Recherches précises de paris ;\n\n– Possibilité d’obtenir des statistiques au regard des Données de l’Utilisateur.",
+    
+    "cguv-h6":"6. Abonnements",
+
+    "cguv-h6-1-h":"6.1 Définition",
+    "cguv-h6-1-c":"Un Abonnement désigne les Services proposés par BET TRENDS qui se déclinent en 4 abonnements dont 3 abonnements payants, dits PREMIUM :\n    – Mensuel : 5,99€ ;\n    – Trimestriel : 14,99 € ; et\n    – Annuel : 49,99€.\n\nToute vente n’est parfaite qu’à compter de l’acceptation expresse de l’Abonnement et des présentes CGUV par l’Utilisateur.",
+
+    "cguv-h6-2-h":"6.2 Restrictions préalables à l’inscription",
+    "cguv-h6-2-c":"Les Services de l’Application ne sont pas accessibles aux mineurs, même émancipés. L’Application est un outil d’analyse de paris sportifs.\nLes paris sportifs n’étant pas ouverts aux personnes âgées de moins de 18 ans, BET TRENDS n’est pas accessibles aux personnes âgées de moins de 18 ans.\nL’application n’est pas téléchargeable pour toute personne âgée de moins de 18 ans sur les magasins d’applications d’application mobile.\nSi un Utilisateur âgé de moins de 18 ans venait à s’inscrire sur l’Application BET TRENDS, son compte serait immédiatement fermé.\nToute inscription à l’Application BET TRENDS est strictement personnelle. Un Utilisateur ne peut pas jouer sur l’Application s’il agit pour le compte de quelqu’un d’autre ou d’un groupe d’individus ou toute institution ou personne morale. Un compte ne peut être transféré ou cédé à un tiers de quelque façon que ce soit.\nUn Utilisateur ne peut disposer que d’un seul compte actif. Dans le cas où plusieurs comptes auraient été créés par le même Utilisateur, les comptes postérieurs au premier compte pourront être clôturés.\nFinalement, l’Utilisateur de l’Application BET TRENDS ne doit pas être inscrit sur le fichier national des interdits de jeux.\nLe non-respect des conditions préalables à l’inscription visées ci-dessus entraineront la clôture immédiate du Compte.",
+
+    "cguv-h6-3-h":"6.3 Modalités d’inscription",
+    "cguv-h6-3-c":"L’inscription passe par la création d’un Compte.\nL’Utilisateur sera obligé de fournir certaines Données personnelles le concernant à cette fin, à savoir : nom, prénoms, date de naissance et adresse email.\nAucun Abonnement ne donnera accès à des fonctionnalités et Services supplémentaires tant que la première échéance n’aura pas été réglée.\nBET TRENDS assure la protection de ces Données personnelles conformément à sa Politique de Confidentialité accessible au lien suivant : https://bet-trends.com/politique-de-confidentialite.\nL’Utilisateur doit également choisir un pseudonyme et un mot de passe qui lui seront demandés à chaque connexion à son Compte.\nLe pseudonyme est modifiable.\nToute connexion au moyen des Identifiants de l’Utilisateur sera présumée avoir été effectuée par l’Utilisateur. BET TRENDS ne peut en aucun cas être responsable de l’utilisation des Identifiants de l’Utilisateur et de toute action qui en résulterait.\nBET TRENDS se réserve le droit d’interdire l’utilisation de certains pseudonymes qu’elle jugerait inappropriés.\nIl est de la responsabilité de l’Utilisateur d’assurer la confidentialité de son pseudonyme et de son mot de passe. L’Utilisateur est responsable de toutes les actions et analyses faites et de toutes les données extraites depuis les applications de tierces depuis lesquelles l’Utilisateur a placé ses paris, et ce en utilisant ses identifiants de connexion et son Compte.\nEn cas de perte de ses identifiants ou en cas de soupçon d’utilisation par un tiers de façon frauduleuse, l’Utilisateur doit en informer immédiatement BET TRENDS.\nEn cas d’information inexacte BET TRENDS pourra clore le compte de l’Utilisateur immédiatement et prendre toute sanction légale à son encontre.",
+
+    "cguv-h6-4-h":"6.4 Clôture du Compte de l’Utilisateur",
+    "cguv-h6-4-c1":"Un Compte Utilisateur peut être clos dans les cas suivants :",
+    "cguv-h6-4-c2":"– L’Utilisateur en fait la demande : il peut en faire la demande à tout moment et sans frais ;\n– L’Utilisateur n’a pas permis à BET TRENDS la vérification de son âge ;\n– L’Utilisateur n’a pas communiqué les pièces utiles à la vérification des informations transmises lors de la création de son Compte et/ou de la souscription à un Abonnement payant ;\n– L’Utilisateur devient interdit de jeux ;\n– L’Utilisateur s’exclut lui-même ;\n– Le Compte de l’Utilisateur est lié à une activité frauduleuse, contraire aux présentes conditions générales d’utilisation et de vente ou relevant du blanchiment d’argent ;\n– Le Compte de l’Utilisateur est inactif depuis plus de 1 an ;\n– BET TRENDS se réserve le droit d’invoquer tout autre motif justifiant la clôture temporaire ou définitive d’un Compte Utilisateur.",
+
+    "cguv-h6-5-h":"6.5 Modification de l’Abonnement",
+    "cguv-h6-5-c":"Une fois souscrit, l’Abonnement peut être modifié par l’Utilisateur soit en souscrivant à un Abonnement payant différent, et ce à l’arrivée du terme du premier Abonnement souscrit, ou bien en demandant la résiliation de l’Abonnement à l’arrivé du terme de celui-ci.",
+
+    "cguv-h6-6-h":"6.6 Refus d’Abonnement",
+    "cguv-h6-6-c1":"BET TRENDS se réserve le droit de refuser toute souscription à un Abonnement si :",
+    "cguv-h6-6-c2":"– Il s’avère que l’Utilisateur était âgé de moins de 18 ans ;\n– L’Utilisateur ne paye pas le Tarif de l’Abonnement ;\n– L’Utilisateur n’a pas payé totalement ou partiellement un Abonnement précédemment souscrit ;\n– Les organismes de paiement opposent un refus d’autorisation de paiement par carte bancaire.",
+
+    "cguv-h6-7-h":"6.7 Modalités de résiliation d’Abonnement",
+    "cguv-h6-7-c1":"BET TRENDS et l’Utilisateur ont la possibilité de résilier l’Abonnement souscrit par l’Utilisateur, et ce sous réserve de respecter les termes des présentes CGUV et les conditions suivantes :\nPour l’Utilisateur :",
+    "cguv-h6-7-c2":"– Envoi d’une demande de résiliation par email à l’adressesupport@bet-trends.frou par courrier postale, envoyé en lettre recommandée avec accusé de réception à l’adresse 6 rue d’Armaillé, 75017 Paris.\n – Avoir réglé en totalité les sommes dues par l’Utilisateur à BET TRENDS.\n– Respecter un délai de préavis de quinze (15) jours.\n– Prendre en compte la date anniversaire en fonction de l’Abonnement :\n– Mensuel : possibilité de résiliation chaque mois ;\n– Trimestriel : possibilité de résiliation chaque trimestre ;\n– Annuel : possibilité de résiliation chaque année.\n– Indiquer la date de résiliation effective souhaitée.",
+    "cguv-h6-7-c3":"Pour BET TRENDS :",
+    "cguv-h6-7-c4":"– En cas de défaut de paiement de l’Utilisateur, lorsque celui-ci n’a pas réglé après expiration du délai de trois (3) jours prévus aux termes des présentes, le montant du et l’indemnité forfaitaire de cinquante (50) € hors taxes (HT) de frais de gestion et de relance ;\n– En cas de non-respect de celui-ci d’une ses obligations exprimées dans les présentes conditions générales d’utilisation et de vente ;\n– En cas de désaccord entre les parties sur le Prix des services révisé, tel que prévu aux termes des présentes.",      
+    "cguv-h6-7-c5":"BET TRENDS envoie une notification de résiliation par email à l’Utilisateur avec un préavis de quinze (15) jours précédant la date de cessation de l’Abonnement.\nLa cessation de service est rendue effective par BET TRENDS à la date prévue par les conditions exprimées ci-dessus.\nIl appartient à l’Utilisateur de prendre toutes mesures pour récupérer ses données avant la date de cessation effective des Services fournis par BET TRENDS.\nBET TRENDS et l’Utilisateur ont la possibilité de résilier l’Abonnement de l’Utilisateur en cas de violation des présentes CGUV.",
+
+    "cguv-h7":"7. Conditions financières",
+    "cguv-h7-1-c1":"L’Application BET TRENDS propose 3 Abonnements payants, aux Prix suivants :\n    – Mensuel : 5,99€ ;\n    – Trimestriel : 14,99 € ; et\n    – Annuel : 49,99€.",
+    "cguv-h7-2-c1":"Les Prix des Services de l’Application BET TRENDS peuvent évoluer sur décision unilatérale de BET TRENDS. Les Abonnements déjà souscrits ne pourront pas faire l’objet d’une modification de Prix, sauf en cas d’acceptation express de l’Utilisateur.\nSi l’Utilisateur déjà titulaire d’un Abonnement venait à renouveler ci-celui, les nouveaux Prix s’appliqueraient alors à son Abonnement.",
+
+    "cguv-h8":"8. Modalités de paiement",
+    "cguv-h8-c1":"Les paiements dus par l’Utilisateur seront effectués dans leur souscription à un Abonnement, puis en fonction des Abonnements, aux échéances suivantes :\n     – Mensuel : Tous les mois à la date du jour de la souscription de l’abonnement\n     – Trimestriel : Tous les trois mois à la date du jour de la souscription de l’abonnement\n     – Annuel : Tous les ans à la date du jour de la souscription de l’abonnement",
+    "cguv-h8-c2":"Les modes de règlement acceptés par BET TRENDS pour la souscription à un Abonnement est le paiement par carte bancaire ou le prélèvement automatique pour les Abonnements pour lesquels le Prix est payable sur différentes échéances.",
+
+    "cguv-h8-1-h1":"Retard de paiement",
+    "cguv-h8-1-c1":"Tout paiement exigible non effectué à la date d’échéance portera de plein droit, à partir de cette date et sans qu’il soit besoin d’une mise en demeure préalable, intérêts de retard calculés à un taux égal à trois (3) fois le taux de l’intérêt légal. Une indemnité forfaitaire de quarante euros (40 €) pour frais de recouvrement sera également due par l’Utilisateur étant précisé que si les frais de recouvrement exposés sont supérieurs à cette indemnité, une indemnité complémentaire pourra être demandée à l’Utilisateur sur justificatif.En cas de recouvrement contentieux et/ou par l’intermédiaire d’une société spécialisée extérieure, tous les frais engagés par BET TRENDS seront à la charge de l’Utilisateur.",
+    "cguv-h8-1-c2":"Sauf contestation de l’Utilisateur relative à la conformité des Services de BET TRENDS au regard de ses engagements contractuels, en cas de non‐paiement total ou partiel de toutes sommes arrivées à échéance, BET TRENDS adressera à l’Utilisateur une lettre recommandée avec accusé de réception lui demandant de procéder au paiement dans les meilleurs délais et lui indiquant qu’à défaut de ce faire, BET TRENDS pourra suspendre ses prestations jusqu’à parfait paiement, sans préjudice du droit pour ce dernier de mettre fin à l’Abonnement et aux présentes CGUV dans les conditions visées dans les présentes CGUV.\nL’envoi de cette lettre de mise en demeure de procéder au paiement entraîne également l’exigibilité du paiement de toutes les autres factures et échéances y compris celles dont la date d’exigibilité initiale ne serait pas dépassée ainsi que l’exigibilité du montant des sommes dues en principal et ce à titre de clause pénale.",
+
+    "cguv-h8-2-h":"Flux financier et retraits",
+    "cguv-h8-2-c":"L’Application BET TRENDS ne permet pas l’Utilisateur de placer directement un pari depuis son Compte Utilisateur.\nAucun flux financier ne peut et ne doit avoir lieu depuis ou vers un Compte Utilisateur.\nAucun retrait ne peut et ne doit avoir lieu depuis ou vers un Compte Utilisateur.",
+
+    "cguv-h9":"9. Jeu responsable",
+    "cguv-c9":"BET TRENDS permet à l’Utilisateur parieur sportif d’analyser ses paris sportifs dans le but éventuel de pouvoir faire d’autres paris sportifs. Toutefois, le but premier est l’analyse des paris déjà passés.\nEn aucun cas BET TRENDS ne cherche à pousser l’Utilisateur à la réalisation de davantage de paris sportifs.\nTout Utilisateur, ou son entourage, ressentant une quelconque difficulté est invité à chercher de l’aide, par exemple auprès des plateformes permettant le placement de paris en notamment se faisant temporairement ou définitivement exclure desdites plateformes ou en appelant leurs services d’aide.\nTout Utilisateur peut à tout moment fermer son Compte Utilisateur depuis l’Application BET TRENDS.\nBET TRENDS se réserve le droit de procéder à des contrôles en matière de jeu responsable. Au regard de ces contrôles, BET TRENDS pourra contacter l’Utilisateur dont elle jugerait que le comportement est à risque. BET TRENDS pourra alors lui proposer des solutions afin de l’aider, voir suspendre temporairement ou clôturer temporairement ou définitivement son Compte.",
+
+    "cguv-h10":"10. Propriété intellectuelle",
+    "cguv-h10.1-h":"10.1   Droit d’auteur",
+    "cguv-h10.1-c":"L’Application et chacun des éléments qui la compose, notamment sous forme de textes, photographies, images, icônes, sons, vidéos, logiciels, base de données ou données sont protégés par le droit de la propriété intellectuelle.\n BET TRENDS est titulaire de tous les droits de propriété intellectuelle afférents à l’Application ou ses éléments.\nToute reproduction, représentation, modification, transmission, publication, adaptation ou exploitation du Site ou de ces éléments, y compris des documents disponibles au téléchargement sur l’Application, sur quelque support que ce soit et de quelque manière que ce soit, sans autorisation écrite et préalable de BET TRENDS, est interdite et serait susceptible de constituer des actes de contrefaçon au sens des dispositions du Code de la propriété intellectuelle.\nLa reproduction ou représentation non substantielles de l’Application ou de ses éléments, y compris des documents disponibles au téléchargement sur l’Application, sont autorisées à des fins strictement privées et non commerciales.\nLa reproduction autorisée de l’Application ou de ses éléments devra indiquer de manière apparente la source et le nom de l’auteur du contenu reproduit.",
+    "cguv-h10.2-h":"10.2   Droit des marques",
+    "cguv-h10.2-c":"Sauf mention contraire, les dénominations sociales, logos, produits et marques reproduits ou cités dans l’Application sont la propriété de BET TRENDS ou de ses partenaires.\nToute reproduction de ces signes, sans autorisation écrite et préalable de BET TRENDS, est interdite.",
+
+    "cguv-h11":"11. Données à caractère personnel",
+    "cguv-c11":"\nAu cours de sa navigation sur l’Application, l’Utilisateur peut être amené à communiquer des informations personnelles le concernant. \nBET TRENDS s’applique à respecter les informations ainsi soumises et a mis en place une Politique de Confidentialité disponible à l’adresse suivante :",
+
+    "cguv-h12":"12. Cookies",
+    "cguv-c12":"Lors de sa première visite sur l’Application, l’Utilisateur est amené à installer des cookies sur son périphérique de connexion. Les informations relatives aux cookies utilisés par BET TRENDS sont disponibles à l’adresse suivante :",
+
+    "cguv-h13":"13. Obligations de Bet Trends",
+    "cguv-c13":"BET TRENDS fournira à l’Utilisateur, sur demande de ce dernier, les conseils et les informations nécessaires à l’utilisation de l’Application, à condition que ces demandes soient raisonnables et réalisables, tant en termes de contenu que de volume, et que les informations demandées ne soient pas déjà librement accessibles depuis le Site ou l’Application.\nBET TRENDS s’engage également à mettre en œuvre tout moyen technique, conforme à l’état de la technique, pour maintenir l’intégrité, la sécurité, la confidentialité des Données de l’Utilisateur, ainsi qu’à garantir la sécurité des accès aux systèmes d’information de l’Utilisateur.\nBET TRENDS s’engage à informer préalablement l’Utilisateur de toute opération susceptible de provoquer l’indisponibilité ou une dégradation de performances de l’Application BET TRENDS.",
+
+    "cguv-h14":"14. Obligations de l'utilisateur",
+    "cguv-c14":"L’Utilisateur assure avoir pris connaissance, préalablement à la création de son Compte, des présentes CGUV.\nL’Utilisateur s’engage à n’utiliser les informations concernant l’Application que pour ses besoins propres et pour les seules finalités visées aux présentes CGUV.\nTout traitement, transmission, diffusion ou représentation d’informations ou données via l’Application par l’Utilisateur, sont effectués sous sa seule et entière responsabilité et dans le strict respect des dispositions légales et réglementaires.\nL’Utilisateur s’engage, en particulier, à ne traiter, diffuser, télécharger, ou transmettre par l’intermédiaire de l’Application que des informations et Données dont l’exploitation ne viole aucun droit de propriété intellectuelle ou industrielle ni tout autre droit privatif, ou ne constitue pas la commission d’une infraction pénale.\nL’Utilisateur s’engage ne pas créer de Compte dans le but de développer ou commercialiser une application similaire à l’Application BET TRENDS.\nL’Utilisateur s’engage à ne pas entraver ou perturber les Services et les serveurs de BET TRENDS et à se conformer aux conditions requises, aux procédures, aux règles générales qui lui sont communiquées par BET TRENDS pour la bonne utilisation de l’Application et de ses Services.\nL’Utilisateur reconnaît être le responsable entier et exclusif de ses Identifiants et de son Compte. Il supportera seul les conséquences qui pourraient résulter de l’utilisation par des tiers qui auraient eu connaissance de ceux‐ci.",
+
+    "cguv-h15":"15. Limitation de responsabilité",
+    "cguv-c15":"BET TRENDS ne saurait garantir l’exactitude, l’exhaustivité ou l’actualité des informations contenues sur l’Application, ni leur adéquation avec les besoins de l’Utilisateur.\nL’Utilisateur est responsable de l’utilisation des informations contenues sur l’Application et assume pleinement les risques liés à cette utilisation.\nA ce titre, BET TRENDS ne saurait être tenu responsable de l’utilisation faite des informations contenues sur l’Application par l’Utilisateur et des dommages directs ou indirects résultant de cette utilisation.\nBET TRENDS ne saurait être tenu responsable des dommages directs ou indirects, matériels ou immatériels, résultant de l’utilisation de l’Application, des erreurs, absence de disponibilité des informations ou de la présence d’un virus sur l’Application.\nBET TRENDS ne saurait être tenu responsable pour tout propos mis en ligne librement par un Utilisateur. Par ailleurs, l’Utilisateur s’engage à ne pas publier ou mettre en ligne sur l’Application BET TRENDS des propos contraires à la loi et aux bonnes mœurs.\nL’Utilisateur s’engage à jouer dans la limite de ses capacités financières et de son état psychologique.",
+
+    "cguv-h16":"16. Accessibilité de l'application",
+    "cguv-c16":"BET TRENDS s’efforce de permettre l’accès à l’Application 24/24 heures, 7/7 jours, sauf en cas de force majeure ou d’un événement hors du contrôle de BET TRENDS, et sous réserve des éventuelles pannes et interventions de maintenance nécessaires au bon fonctionnement de l’Application et des Services.\nPar conséquent, BET TRENDS ne peut garantir la disponibilité de l’Application et/ou des Services ni la fiabilité des transmissions ou des performances.\nBET TRENDS ne propose pas d’assistance technique auprès de l’Utilisateur, que ce soit par des moyens électroniques ou téléphoniques.\nLa responsabilité de BET TRENDS ne saurait être engagée en cas d’impossibilité d’accès à l’Application et/ou d’utilisation des services pour les raisons susmentionnées.",
+
+    "cguv-h17":"17. Newsletter",
+    "cguv-c17":"Les Utilisateurs du Site et de l’application mobile ont la possibilité de souscrire à une newsletter leur permettant d’être informé de l’actualité, des nouveautés et des promotions de BET TRENDS, directement sur la boite de messagerie électronique renseignée par l’Utilisateur.\nL’inscription à ce service est gratuite, et implique l’acceptation pleine et entière par l’Utilisateur des présentes Conditions Générales d’utilisation.\nLes Newsletters ont pour seul but de diffuser des informations et ne sauraient engager la responsabilité de BET TRENDS au regard des conséquences directes ou indirectes liées à l’utilisation des Newsletters par les Utilisateurs abonnés.\nLa souscription se fait en cochant la case « J’accepte de recevoir la newsletter » lors de l’inscription sur l’application mobile ou site web Bet Trends.\nL’Utilisateur s’engage à ne pas souscrire en utilisant une adresse email dont il n’est pas titulaire et à ne pas usurper l’identité d’une autre personne morale ou physique.\nL’Utilisateur peut se désinscrire de la newsletter à tout moment en faisant la demande expresse par l’intermédiaire de l’envoie d’un email à l’adresse support@bet-trends.fr.\nLa désinscription sera effective sous un délai de 48 heures, afin de permettre le traitement de la demande de désinscription par BET TRENDS.\nL’ensemble des informations relatives à l’Utilisateur seront détruites par BET TRENDS conformément aux dispositions prévues dans la Politique de Confidentialité, accessible au lien suivant : https://bet-trends.com/politique-de-confidentialite.",
+
+    "cguv-h18":"18. Liens hypertextes",
+    "cguv-c18":"L’Application contient des liens renvoyant vers des sites internet qui ne sont pas contrôlés par BET TRENDS.\nLes liens figurant sur l’Application sont proposés en tant que services par BET TRENDS et la décision de les activer appartient exclusivement à l’Utilisateur.\nBET TRENDS n’est aucunement responsable des contenus des sites internet auxquels l’Utilisateur accède par l’Application.\nBET TRENDS ne saurait être tenu responsable des dommages directs ou indirects, matériels ou immatériels, résultant de l’utilisation du site internet auquel l’Utilisateur aurait accédé par l’Application, des erreurs, absence de disponibilité des informations ou de la présence d’un virus sur ce site.",
+
+    "cguv-h19":"19. Promotions",
+    "cguv-c19":"Sauf mentions particulières, les promotions ne sont pas cumulables entre elles.\nTout abus d’ouverture de compte afin de bénéficier d’offres promotionnelles peut entrainer la suspension ou fermeture d’un compte Utilisateur ou l’exclusion de l’Utilisateur.\nSauf mention particulière, les promotions et bonus éventuels ne sont pas cumulables entre eux.",
+
+    "cguv-h20":"20. Règles d'usage d'Internet",
+    "cguv-c20-1":"L’Utilisateur déclare accepter les caractéristiques et les limites d’internet, et notamment reconnait que :",
+    "cguv-c20-2":"– BET TRENDS n’assume aucune responsabilité sur les services accessibles par internet et n’exerce aucun contrôle de quelque forme que ce soit sur la nature et les caractéristiques des données qui pourraient transiter par l’intermédiaire de son centre serveur ;\n\n– Les données circulant sur l’internet peuvent être réglementées en termes d’usage ou être protégées par un droit de propriété, ce qui n’empêche pas leur éventuel détournement ;\n\n– L’Utilisateur, qu’il soit titulaire d’un compte gratuit ou d’un abonnement payant, est responsable de l’usage des données qu’il consulte, interroge et transfère sur l’internet ;\n\n– BET TRENDS ne dispose d’aucun moyen de contrôle sur le contenu des services accessibles sur internet.",
+
+    "cguv-h21":"21. Sécurité informatique",
+    "cguv-c21":"L’Application met en place un système sécurisé garantissant l’intégrité des données informatiques y figurant.\nL’Utilisateur de l’Application s’engage à n’avoir aucune activité et/ou comportement susceptible de perturber ou de tenter de perturber le bon fonctionnement de l’Application et/ou de son activité.\nToute violation de la présente disposition est susceptible d’engager la responsabilité de l’Utilisateur pour toute atteinte à l’activité de l’Application.",
+
+    "cguv-h22":"22. Activités frauduleuses et lutte contre le blanchiment d'argent",
+    "cguv-c22-1":"BET TRENDS ne permet pas à l’Utilisateur de procéder à la réalisation d’un pari sportif depuis l’Application.\nEn revanche, BET TRENDS souhaite assurer aux Utilisateurs, en tant que parieurs sportifs avérés, une certaine sécurité concernant l’environnement des jeux.\nDans ce but, BET TRENDS interdit à tout Utilisateur de :",
+    "cguv-c22-2":"– Violer une quelconque règle établie par les présentes CGUV ;\n– Abuser des possibilités offertes par BET TRENDS d’analyser et comparer les différents paris effectués depuis différentes plateformes tierces offrant la possibilité de placer des paris sportifs ;\n– Ouvrir plus d’un Compte Utilisateur sur l’Application ;\n– Ouvrir un Compte Utilisateur sous l’identité d’une personne n’étant pas l’Utilisateur, notamment afin d’éviter de se voir refuser l’accès à l’Application en étant mineur ;\n– Utiliser des coordonnées bancaires dont l’Utilisateur n’est pas le titulaire ;\n– Tenter d’abuser d’une promotion proposée par BET TRENDS ;\n– Se rendre coupable de toute forme de fraude, de collusion, de tricherie grâce aux analyses proposées par BET TRENDS ;\n– Détourner l’utilisation de l’Application à des fins de blanchiment d’argent.",
+    "cguv-c22-3":"BET TRENDS se réserve le droit de procéder à des contrôles systématiques ou aléatoires visant à détecter les infractions notamment listées ci-dessus.\nCes contrôles pourront donner lieu, à la discrétion de BET TRENDS, à des recherches supplémentaires pouvant par exemple entrainer une demande d’information supplémentaire à l’Utilisateur et/ou la fourniture de justificatifs complémentaires.\nBET TRENDS se réserve le droit suspendre temporairement l’accès au Compte à l’Utilisateur durant la période de recherches. L’Utilisateur en sera alors informé.\nBET TRENDS conclura ses recherches en informant l’Utilisateur de la décision prise, à savoir :",
+    "cguv-c22-4":"– Abandon des recherches ;\n– Clôture définitive ou non du Compte.",
+    "cguv-c22-5":"BET TRENDS se réserve le droit de refuser toute création de Compte futur par un Utilisateur qui aurait vu son Compte clôturé dans le cadre des recherches de cette présente disposition.\nBET TRENDS se réserve le droit de clôturé le Compte d’un autre Utilisateur dont il s’avérerait que l’activité est liée à celle d’un Compte clôturé.\nFinalement, BET TRENDS pourra transmettre le résultat de ses recherches notamment à TRACFIN (Traitement du renseignement et action contre les circuits financiers clandestins) en effectuant une déclaration de soupçon dans les cas repris à l’article L.561-15 du Code monétaire et financier.\nEn outre toute activité frauduleuse pourra entrainer des poursuites judiciaires à l’encontre de l’Utilisateur concerné de la part BET TRENDS ou toute autre personne et autorité intéressée.",
+
+    "cguv-h23":"23. Durée",
+    "cguv-c23-1":"En cas de souscription d’un Abonnement payant, les présentes CGUV tiendront lieu de contrat dans la relation contractuelle se créant entre l’Utilisateur et BET TRENDS.\nLe présent Contrat entre en vigueur à compter de la date de souscription de l’Abonnement qui aura lieu le même jour que le paiement de la première échéance due.\nEn souscrivant à un Abonnement, l’Utilisateur accepte sans réserve les termes des présentes.  Le présent Contrat est donc conclu pour une durée différente pour chaque Abonnement, à savoir :",
+    "cguv-c23-2":"– Mensuel : pour une durée minimum d’un mois, tacitement reconductible de la même durée jusqu’à résiliation de l’Abonnement par l’Utilisateur ou par BET TRENDS ;\n– Trimestriel : pour une durée minimum d’un trimestre, tacitement reconductible de la même durée jusqu’à résiliation de l’Abonnement par l’Utilisateur ou par BET TRENDS ; et\n– Annuel : pour une durée minimum d’un an, tacitement reconductible de la même durée jusqu’à résiliation de l’Abonnement par l’Utilisateur ou par BET TRENDS.",
+    "cguv-c23-3":"Dans le cadre de ces 3 Abonnements, l’Utilisateur ou BET TRENDS pourra résilier l’Abonnement par l’envoi d’une lettre recommandée avec accusé de réception, en respectant un préavis de quinze (15) jours.\nLe Contrat pourra également être résilié par l’une ou l’autre des Parties dans les conditions mentionnées dans les présentes CGUV.",
+
+    "cguv-h24":"24. Rétractation",
+    "cguv-c24":"L’Utilisateur qui souscrit à un Abonnement dispose d’un droit de rétractation de quatorze (14) jours.\nPour l’exercer, il lui revient de contacter BET TRENDS par l’envoi d’un email à l’adresse mail suivante : support@bet-trends.fr.\nBET TRENDS remboursera à l’Utilisateur les sommes perçues en cas d’exercice de ce droit.\nL’Utilisateur se verra en conséquence bloquer l’accès aux Services précédemment souscrits.",
+
+    "cguv-h25":"25. Renonciation et divisibilité",
+    "cguv-c25":"Ne constitue pas une renonciation à une disposition des présentes Conditions Générales d’Utilisation et de Vente le fait pour BET TRENDS de ne pas respecter ou faire respecter cette disposition.\nDans le cas où une disposition des présentes Conditions Générales d’Utilisation et de Vente serait déclarée invalide ou inapplicable, BET TRENDS s’engage à modifier cette disposition afin de la rendre valide ou applicable, sans que cette modification n’affecte les autres dispositions des Conditions Générales d’Utilisation et de Vente.",
+
+    "cguv-h26":"26. Loi applicable",
+    "cguv-c26":"Les présentes Conditions Générales d’Utilisation et de Vente l’Application sont soumises au droit français.\nLes jeux d’argent et de hasard en ligne sont soumis aux dispositions de la loi n° 2010-476 du 12 mai 2010 relative à l’ouverture à la concurrence et à la régulation du secteur des jeux d’argent et de hasard en ligne (1).\nTout litige relatif à l’existence, la validité, l’interprétation, l’exécution ou l’inexécution des présentes Conditions Générales d’Utilisation et de Vente de l’Application sera soumis aux Tribunaux français compétents dans les conditions de droit commun. ",
+
+    "cguv-h27":"27. Divers",
+    "cguv-c27":"Si une ou plusieurs stipulations des CGUV sont tenues pour non valides ou déclarées comme telles en application d’une loi, d’un règlement ou à la suite d’une décision définitive d’une juridiction compétente, les autres stipulations garderont toute leur force et portée.\n Les présentes CGUV ne créent pas entre l’Utilisateur et BET TRENDS, une société ou entreprise commune, contrat de travail ou mandat."
+}
